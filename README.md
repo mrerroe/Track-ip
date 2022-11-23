@@ -1,8 +1,18 @@
 Installation :
-apt update
-apt install git curl -y
-git clone git://github.com/htr-tech/track-ip.git
-cd track-ip
-> Run : bash trackip
+
+
+$apt update
+
+$apt install git curl -y
+
+$git clone https://github.com/mrerroe/Track-ip
+
+$cd Track-ip
+
+> Run : bash Track-ip
+
+
+
+
 Single Command :
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip# Track-ip
+apt update ; apt install git curl -y ; git clone https://github.com/mrerroe/Track-ip ;cd Rrack-ip ; bash Track-ip# Track-ip
